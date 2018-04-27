@@ -1,7 +1,7 @@
 
 -Add the folder 'MatlabHybridDynamicSim' to your Matlab path (with subfolders)
 
-This contains the Utility functions for running simulations in matlab, 
+This contains the utility functions for running simulations in Matlab, 
 and two example packages:  'BallInBox' and 'BasicSLIP'
 
 The first example will be 'BallInBox' which is a simple simulation involving transitions
